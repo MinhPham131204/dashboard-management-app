@@ -26,7 +26,7 @@ Ensure you have Node.js (v16.0.0 or higher) and npm/yarn installed on your local
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/dashboard-management-app.git](https://github.com/your-username/dashboard-management-app.git)
+git clone https://github.com/MinhPham131204/dashboard-management-app.git
 
 cd dashboard-management-app
 ```
